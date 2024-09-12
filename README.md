@@ -26,7 +26,7 @@ Le but de ce projet est de me familiariser avec les concepts fondamentaux du HTM
 - VSCode : Pour coder le projet.
 
 ## Remerciements
-Je tiens à remercier le créateur du tutoriel vidéo.
+Je tiens à remercier le créateur du tutoriel vidéo, qui m'a permis d'appronfondir mes connaissances de bases en HTML/CSS et d'apprendre à mettre en ligne un site web avec Github.
 [Youtube - @SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) - [Github - @SuperSimpleDev](https://github.com/SuperSimpleDev)
 
 ## Liens utiles
