@@ -31,4 +31,4 @@ Je tiens à remercier le créateur du tutoriel vidéo.
 
 ## Liens utiles
 - [Tutoriel YouTube](https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDev)
-- [Page web du projet](tbd)
+- [Page web du projet](https://yetanotherlea.github.io/supersimpledev-project/)
