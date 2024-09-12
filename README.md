@@ -27,8 +27,8 @@ Le but de ce projet est de me familiariser avec les concepts fondamentaux du HTM
 
 ## Remerciements
 Je tiens à remercier le créateur du tutoriel vidéo.
-(Youtube - @SuperSimpleDev)[https://www.youtube.com/@SuperSimpleDev] - (Github - @SuperSimpleDev)[https://github.com/SuperSimpleDev]
+[Youtube - @SuperSimpleDev](https://www.youtube.com/@SuperSimpleDev) - [Github - @SuperSimpleDev](https://github.com/SuperSimpleDev)
 
 ## Liens utiles
-- (Tutoriel YouTube)[https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDev]
-- (Page web du projet)[tbd]
+- [Tutoriel YouTube](https://www.youtube.com/watch?v=G3e-cpL7ofc&ab_channel=SuperSimpleDev)
+- [Page web du projet](tbd)
