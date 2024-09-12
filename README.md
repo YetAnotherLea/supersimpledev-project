@@ -12,9 +12,9 @@ Le but de ce projet est de me familiariser avec les concepts fondamentaux du HTM
     - Survols, Transitions, Ombres
     - Chrome DevTools & Modèle de Boîte CSS (margin, padding, ...)
     - Styles de Texte (utilisation de google font)
-    - Structure HTML (<!DOCTYPE html>, <head>, <body> et <div>) et Sémantique HTML (<header>, <nav>, <main>, <section>)
+    - Structure HTML ('<!DOCTYPE html>', '<head>', '<body>' et '<div>') et Sémantique HTML ('<header>', '<nav>', '<main>', '<section>')
     - Images et Barres de recherche
-    - Propriétés d'affichage CSS (<display>)
+    - Propriétés d'affichage CSS ('<display>')
     - Mise en page Imbriquée (Nested Layouts)
     - Grille CSS
     - Flexbox
