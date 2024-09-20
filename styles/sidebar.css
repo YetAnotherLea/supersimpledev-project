@@ -1,0 +1,91 @@
+@media (max-width: 1199px) {
+    .sidebar {
+        background-color: white;
+        width: 72px;
+
+        padding-top: 5px;
+    
+        position: fixed;
+        top: 55px;
+        left: 0;
+        bottom: 0;
+    
+        z-index: 100;
+    }
+
+    .sidebar-link {
+        height: 74px;
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .sidebar-link:hover {
+        background-color: rgb(235, 235, 235);
+        cursor: pointer;
+    }
+    
+    .sidebar-link img {
+        height: 24px;
+        margin-bottom: 5px;
+    }
+    
+    .sidebar-link div {
+        font-size: 10px;
+    }
+}
+
+
+/* To continue this, should create two other divs: one for the icons and one for the text. Then; align. */
+@media (min-width: 1200px) {
+    body {
+        padding-left: 277px;
+    }
+
+
+    .sidebar {
+        background-color: white;
+        width: 250px;
+
+        padding-top: 5px;
+    
+        position: fixed;
+        top: 55px;
+        left: 0;
+        bottom: 0;
+    
+        z-index: 100;
+    }
+
+    .sidebar-link {
+        height: 74px;
+    
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .sidebar-link:hover {
+        background-color: rgb(235, 235, 235);
+        cursor: pointer;
+    }
+    
+    .sidebar-link img {
+        position: absolute;
+        height: 24px;
+        left: 25px;
+        top: 25px;
+    }
+    
+    .sidebar-link div {
+        font-size: 14px;
+    }
+
+    .sidebar-text {
+        width: 100px;
+    }
+}
